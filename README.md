@@ -39,7 +39,7 @@
 ```json
 [
 	{
-        "tipo":"Entrega Ninja",
+          "tipo":"Entrega Ninja",
     	  "frete": 12.00,
     	  "prazo": 6
 	},
