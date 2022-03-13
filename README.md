@@ -1,5 +1,5 @@
 <h1>
-    Desafio cincluído - BackEnd KaBum - <strong>EntreGa</strong>
+    Desafio concluído - BackEnd KaBum - <strong>EntreGa</strong>
 </h1>
 
 <h2>Descrição:</h2>
@@ -9,11 +9,12 @@
 </br>
 <h3>Linguagem:</h3>
 
-- [Python](https://www.python.org/)
+- Python
 
-<h3>Micro framework:</h3>
+<h3>Micro framework e extenção:</h3>
 
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+- Flask
+- Flask Restx
 
 <h3>Libs:</h3>
 
@@ -38,14 +39,14 @@
 ```json
 [
 	{
-        "nome":"Entrega Ninja",
-    	  "valor_frete": 12.00,
-    	  "prazo_dias": 6
+        "tipo":"Entrega Ninja",
+    	  "frete": 12.00,
+    	  "prazo": 6
 	},
 	{
-    	  "nome":"Entrega KaBuM",
-    	  "valor_frete": 8.00,
-    	  "prazo_dias": 4
+    	  "tipo":"Entrega KaBuM",
+    	  "frete": 8.00,
+    	  "prazo": 4
 	}
 ]
 ````
