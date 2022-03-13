@@ -57,5 +57,5 @@ $ git clone https://github.com/itsvitoria/Projeto_VitoriaNinja.git
 ````
 <h3>Funcionamento:</h3> 
 
-- URL: https://127.0.0.1:5000/ 
-- Documentação: https://127.0.0.1:5000/docs 
+- URL: https://127.0.0.1:5000/ (local)
+- Documentação: https://127.0.0.1:5000/docs
