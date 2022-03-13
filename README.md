@@ -22,7 +22,7 @@
 
 <h2>Exemplo:</h2>
 
-- Input: Dimensões e peso do produto (centimentros e gramas).
+- Input: Dimensões e peso do produto (centímentros e gramas).
 
 ```json
 {
